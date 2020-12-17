@@ -1,0 +1,158 @@
+
+#header
+{
+  white-space:nowrap;
+  border-bottom:4px solid #ff0000;
+  text-align:center;
+} 
+
+
+table 
+{
+    background:#000033; /* Цвет фона таблицы */
+	font-size:1.5em;
+   }
+   
+   
+ a 
+{
+    color: #ffffff; /* Цвет обычной ссылки */
+    padding: 2px; /* Поля вокруг текста */
+}
+a:visited 
+ {
+    color: #66ffff; /* Цвет посещенной ссылки */
+ } 
+a:hover 
+ {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #000000; /* Цвет ссылки при наведении на нее курсора мыши */  
+    background: #ffffff; /* Цвет фона */
+ }
+ 
+ #dline
+ {
+	line-height: 1.5 
+ }
+ 
+ #niz
+{
+	background:#000033;
+	font-size:1.5em;
+	color:white;
+	padding:5px 20px 30px 40px;
+}
+footer
+{
+	border-top:4px solid #ff0000;	
+}
+
+
+ #str0
+{
+	font-size:1.5em;
+	margin:00px 100px;
+	font-style:Georgia serif;
+}
+
+#str1
+{
+	text-align:right;
+	font-size:1.5em;
+	margin:30px 100px;
+	font-style:Georgia serif;
+}
+IMG.right 
+{
+	margin: 10px 0 50px 10px;
+}
+
+p.c
+{
+	padding:120px 20px 30px 40px;
+}
+
+#table
+{
+	background:#ffffff;
+	margin:50px 00px;
+	font-size:1em;
+	margin: 1em auto;
+}
+
+#table1
+{
+	background:#99ccff;
+	margin:50px 00px;
+	font-size:1em;
+	margin: 1em auto;
+}
+
+#h {
+	color: #008000; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+}
+#h:visited {
+    color: #800080; /* Цвет посещённой ссылки */
+   } 
+#h:hover {
+    color: #800000; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+   
+#str3
+{
+	font-size:1.2em;
+	margin:50px 30px;
+}
+
+#str2
+{
+	text-align:right;
+	font-size:1.5em;
+	margin:00px 50px;
+	font-style:Georgia serif;
+}
+#str2a
+{
+	font-size:1.2em;
+	margin:00px 20px;
+}
+
+#str2d
+{
+	font-size:1.2em;
+}
+
+#l {
+  width: 45%;
+  display: inline-block;
+}
+
+.brd {
+    border: 4px double black; /* Параметры границы */
+    background: #99ccff; /* Цвет фона */
+    padding: 10px; /* Поля вокруг текста */
+   }
+  
+#table2
+{
+	background:#f5f5f5;
+	margin:50px 00px;
+	font-size:1em;
+	margin: 1em auto;
+}	
+ 
+ #str6
+{
+	font-size:1.5em;
+	margin:50px 100px;
+	font-style:Georgia serif;
+}
+
+#str6r
+{
+	font-size:2em;
+	font-style:Georgia serif;
+	margin:10px 30px 00px 30px;
+}
